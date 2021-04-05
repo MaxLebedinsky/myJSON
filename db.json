@@ -1,5 +1,4 @@
-{
-    "users": [{
+[{
         "id": 1,
         "name": "roy",
         "location": "india"
@@ -8,4 +7,3 @@
         "name": "sam",
         "location": "wales"
     }]
-}
