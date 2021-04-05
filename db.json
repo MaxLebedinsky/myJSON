@@ -1,4 +1,5 @@
-[
+{
+    [
     {
         "product_name": "Snowboard",
         "price": 1500,
@@ -20,3 +21,4 @@
         "discount": 0
     }
 ]
+}
