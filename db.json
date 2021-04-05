@@ -1,8 +1,8 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "roy",
-        "location": "india"
+    "goods": [{
+        "price": 1000,
+        "product_name": "Snowboard",
+        "discount": 5
     }, {
         "id": 2,
         "name": "sam",
